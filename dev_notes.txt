@@ -1,2 +1,6 @@
 initial development notes
+<<<<<<< HEAD
 Updates from main branch.
+=======
+More detailed development notes.
+>>>>>>> development
